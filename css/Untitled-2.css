@@ -39,7 +39,7 @@ body{
     background: #034c91
 }
 .container{
-width:100%;
+
   margin-right: auto;
   margin-left: auto;
   padding-left: 15px;
@@ -69,7 +69,7 @@ a{
 }
 /* ======================== */
 .header_right{
-  width: 58.33333333%;
+  width: 50%;
   height: 50px;
 }
 ul.tubiao{
@@ -126,8 +126,6 @@ li{
   width:100%;
   height: 160px;
    margin:0;
-    padding-left: 15px;
-    padding-right: 15px;
     display:flex;  /*  弹性布局 */
     justify-content: space-between;
     flex-flow: row wrap;
@@ -290,6 +288,13 @@ flex-wrap: wrap;
   float: left;
   padding: 50px 0px 0px 0px;
 }
+.container4{
+  width:100%;
+  height: 300px;
+    display:flex;  /*  弹性布局 */
+    justify-content: space-between;
+    flex-flow: row wrap;
+  }
 .pageHeader{
   width: 100%;
     float: left;
