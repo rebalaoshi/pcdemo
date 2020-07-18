@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "15492",
+      "name": "旅行",
+      "font_class": "lvxing",
+      "unicode": "e65d",
+      "unicode_decimal": 58973
+    },
+    {
+      "icon_id": "132180",
+      "name": "电话",
+      "font_class": "telephone",
+      "unicode": "e645",
+      "unicode_decimal": 58949
+    },
+    {
+      "icon_id": "702366",
+      "name": "facebook",
+      "font_class": "facebook",
+      "unicode": "e801",
+      "unicode_decimal": 59393
+    },
+    {
+      "icon_id": "978354",
+      "name": "微信",
+      "font_class": "gongzhonghao",
+      "unicode": "e63e",
+      "unicode_decimal": 58942
+    },
+    {
+      "icon_id": "7697865",
+      "name": "中国",
+      "font_class": "zhongguo",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "8338696",
+      "name": "邮箱",
+      "font_class": "youxiang",
+      "unicode": "e6cb",
+      "unicode_decimal": 59083
+    },
+    {
+      "icon_id": "12703571",
+      "name": "qq",
+      "font_class": "qq",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "14343651",
+      "name": "github",
+      "font_class": "github",
+      "unicode": "e534",
+      "unicode_decimal": 58676
+    }
+  ]
+}
